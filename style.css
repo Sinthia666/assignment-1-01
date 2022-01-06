@@ -3,6 +3,10 @@ body{
     margin: 0%;
 }
 
+h1{
+    font: Lora bold 1000; 
+ 
+}
 p{
     font: Poppins Thin 100;
 }
@@ -144,6 +148,7 @@ p{
     padding-bottom: 6%;
     text-decoration-style: wavy;
     text-orientation: unset;
+    padding-top: 20px;
 }
 .line{
     display: flex;
