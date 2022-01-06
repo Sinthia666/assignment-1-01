@@ -1,0 +1,42 @@
+body{
+    font: Lora Semi-bold 600;
+    margin: 0%;
+}
+p{
+    font: Poppins Thin 100;
+}
+.orange-color{
+    color: orange;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 5px 5px;
+    color: white;
+    font-weight: 400;
+    border-radius: 10px;
+}
+.section-one{
+    margin-bottom: 50px;
+    display: flex;
+}
+.div-one{
+   padding-left: 7%;
+    width: 50%;
+}
+
+
+.div-one img{
+    width: 60%;
+}
+
+.line{
+    display: flex;
+}
+
+.line-one{
+    margin-right: 10px;
+    border: 1.5px solid orangered;
+    height: 50px;
+    margin-top: 25px;
+}
