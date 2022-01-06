@@ -2,31 +2,52 @@ body{
     font: Lora Semi-bold 600;
     margin: 0%;
 }
+
 p{
     font: Poppins Thin 100;
 }
+
+
 .orange-color{
     color: orange;
 }
+
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
     padding: 5px 5px;
     color: white;
     font-weight: 400;
-    border-radius: 10px;
+    border-radius: 5px;
 }
+
 .section-one{
-    margin-bottom: 50px;
-    display: flex;
+    /* background-image: url(images/person/person-2.png); */
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+
+.section-three{
+    background-repeat: no-repeat;
+    background-position: left;
 }
 
 
 .section-four{
-    margin-bottom: 50px;
-    display: flex;
+    /* background-image: url(images/pictures/project.png); */
+    background-repeat: no-repeat;
+    background-position: right;
 
 }
+
+
 .div-one{
    padding-left: 7%;
     width: 50%;
@@ -34,19 +55,36 @@ p{
 
 
 .div-one img{
-    width: 60%;
+    width: 80%;
 }
 
+
+
+.div-three{
+    padding-left: 7%;
+     width: 50%;
+ }
+ .div-three img{
+    width: 80%;
+}
 
 
 .div-four{
     padding-left: 7%;
-     width: 50%;
+    width: 50%;
  }
+
  .div-four img{
-    width: 60%;
+    width: 80%;
 }
 
+.div-five{
+    padding-left: 7%;
+     width: 50%;
+ }
+ .div-five img{
+    width: 80%;
+}
 
 .line{
     display: flex;
