@@ -15,6 +15,13 @@ p{
     color: orange;
 }
 
+.white-color{
+    color: white;
+}
+.dark-color{
+    color: sienna;
+}
+
 .flexible-container{
     display: flex;
     margin-bottom: 150px;
@@ -67,7 +74,7 @@ p{
     width: 30%;
     margin-left: 2%;
     margin-right: 2%;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 40px;
     border-radius: 10px;
     background-color: lavender;;
 }
@@ -80,7 +87,7 @@ p{
     width: 30%;
     margin-left: 2%;
     margin-right: 2%;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 40px;
     border-radius: 10px;
     background-color: lemonchiffon;
 }
@@ -93,7 +100,7 @@ p{
     width: 30%;
     margin-left: 2%;
     margin-right: 2%;
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 40px;
     border-radius: 10px;
     background-color: rgb(241, 187, 187);
     
@@ -125,12 +132,19 @@ p{
 
 .div-five{
     padding-left: 7%;
-     width: 50%;
+    width: 50%;
  }
  .div-five img{
     width: 80%;
 }
 
+
+.last-part{
+    background-color: rgb(1, 4, 14);
+    padding-bottom: 6%;
+    text-decoration-style: wavy;
+    text-orientation: unset;
+}
 .line{
     display: flex;
 }
@@ -141,3 +155,4 @@ p{
     height: 50px;
     margin-top: 25px;
 }
+
