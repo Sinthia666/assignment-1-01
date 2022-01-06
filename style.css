@@ -7,12 +7,15 @@ p{
     font: Poppins Thin 100;
 }
 
+.center{
+    text-align: center;
+}
 
 .orange-color{
     color: orange;
 }
 
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 150px;
 }
@@ -59,13 +62,55 @@ section{
 }
 
 
+.mission {
+    padding-left: 1%;
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    background-color: lavender;;
+}
+.mission img{
+    width: 40%;
+}
+
+.vision {
+    padding-left: 1%;
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    background-color: lemonchiffon;
+}
+.vision img{
+    width: 40%;
+}
+
+.goals {
+    padding-left: 1%;
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    background-color: rgb(241, 187, 187);
+    
+}
+.goals img{
+    width: 40%;
+}
+
+
+
 
 .div-three{
     padding-left: 7%;
-     width: 50%;
+     width: 100%;
  }
  .div-three img{
-    width: 80%;
+    width: 100%;
 }
 
 
