@@ -1,16 +1,11 @@
 body{
-    font: Lora Semi-bold 600;
+    font-family: 'Poppins', sans-serif;;
     margin: 0%;
 }
-
-h1{
-    font: Lora bold 1000; 
- 
+.text-part{
+    font-family: 'Lora', serif;
+    font-size: 22px;
 }
-p{
-    font: Poppins Thin 100;
-}
-
 .center{
     text-align: center;
 }
@@ -157,7 +152,6 @@ p{
 .line-one{
     margin-right: 10px;
     border: 1.5px solid orangered;
-    height: 50px;
-    margin-top: 25px;
+    height: 70px;
+    margin-top: 34px;
 }
-
