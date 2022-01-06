@@ -20,6 +20,13 @@ p{
     margin-bottom: 50px;
     display: flex;
 }
+
+
+.section-four{
+    margin-bottom: 50px;
+    display: flex;
+
+}
 .div-one{
    padding-left: 7%;
     width: 50%;
@@ -29,6 +36,17 @@ p{
 .div-one img{
     width: 60%;
 }
+
+
+
+.div-four{
+    padding-left: 7%;
+     width: 50%;
+ }
+ .div-four img{
+    width: 60%;
+}
+
 
 .line{
     display: flex;
